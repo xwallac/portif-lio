@@ -1,0 +1,79 @@
+
+
+    
+   h1 {
+    text-align: center;
+    
+   }
+    
+   .paragrafo1 {
+      text-align: center;
+      }
+
+   li {
+      font-size: 2em;
+      color: black;
+      margin: 10px;
+      
+      
+   }
+
+   .bio{
+         color: darkgreen;
+         font-size: 20px;
+         background-color: #f1f1f1;
+         padding: 20px;
+         border-radius: 50px;
+         text-transform: uppercase;
+         letter-spacing: 2px;
+         text-align: center
+         
+         
+         }
+
+   body{
+   height: 100%;
+   padding-bottom: 50px;
+}
+
+   .content {
+      flex: 1;
+      padding: 50px;
+      text-align: center;
+      
+   }
+
+
+#meus {
+   
+   font-size: 25px;
+   background-color: #f1f1f1;
+   border-radius: 25px;
+   letter-spacing: 1,5px;
+   padding: 0px 20px;
+   margin-top: 20px;
+   color: darkgreen;
+   display: inline-flex ;
+   margin-left: 540px;   
+   
+}
+   
+.projetos{
+   text-align: center;
+  display: flex;
+  margin-left: 260px;
+  border-radius: 100px;
+  
+   
+}
+
+.paragrafo1{
+   margin-top: 1%;
+   font-weight: 900;
+   
+}
+
+.paragrafo2{
+   margin-top: 5%;
+   font-weight: 900;
+}
